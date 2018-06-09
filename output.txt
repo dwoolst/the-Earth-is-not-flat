@@ -1,0 +1,68 @@
+--------------------------------------
+        EARTHBOUND TRAVELER
+--------------------------------------
+
+This program calculates the distance of two locations anywhere around the globe
+in Miles using the Haversine formula. Sorry all you Flat-Earthers out there!
+
+Then it displays how long it would take to get there using different modes of travel including:
+    1) Walking
+    2) Biking
+    3) Driving a Car
+    4) Taking a Commercial Jet
+    5) Riding in a Rocket
+    
+Please enter starting city (i.e. Las Vegas, NV) Los Angeles, CA
+
+Los Angeles, CA, US is located at Latitude: 34.05, Longitude: -118.24
+
+Please enter destination city (i.e. Paris, France OR Bankok, China) Anchorage, AK
+
+Anchorage, AK, US is located at Latitude: 61.22, Longitude: -149.9
+
+
+You are looking to travel about 2,339 miles from Los Angeles, CA to Anchorage, AK
+
+Press ENTER to continue...
+
+--------------------------------------------------
+Walking there would take 1 month, 2 days, 1 hour, 50 minutes, 43 seconds.
+Provided you have a pair of comfortable shoes.
+--------------------------------------------------
+
+
+--------------------------------------------------
+Pedaling a bike would take 1 week, 1 day, 2 hours, 57 minutes, 40 seconds.
+But only if you have very sturdy tires.
+--------------------------------------------------
+
+
+--------------------------------------------------
+Making the trip by car would take 1 day, 18 hours, 32 minutes, 13 seconds.
+Including a magical freeway for those over-the-water parts.
+--------------------------------------------------
+
+
+--------------------------------------------------
+Flying in a commercial jet would take 4 hours, 4 minutes, 7 seconds.
+Ignoring the wait at security of course.
+--------------------------------------------------
+
+
+
+--------------------------------------------------
+Making the trip in a SpaceX Rocket would take 8 minutes, 15 seconds.
+With Elon Musks permission.. Good luck with that.
+--------------------------------------------------
+
+
+
+--------------------------------------------------
+Fun Factoid:
+Walking all the way around the circumference of the Earth(24,901 miles) would take 11 months, 1 week, 4 days, 6 hours, 20 minutes.
+Provided you are entirely insane.
+--------------------------------------------------
+
+END PROGRAM - THANK YOU FOR PLAYING.
+
+HOW ABOUT A NICE GAME OF CHESS?
