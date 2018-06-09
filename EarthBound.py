@@ -7,7 +7,7 @@ import textwrap
 
 def main():
     """
-    EARTHBOUND TRAVELLER
+    EARTHBOUND TRAVELER
     User gives names of two cities
     Program gets lon lat of them
     Program calculates the distance in Miles using the Haversine formula.
@@ -24,7 +24,7 @@ def main():
     """
 
     print('--------------------------------------')
-    print('        EARTHBOUND TRAVELLER')
+    print('        EARTHBOUND TRAVELER')
     print('--------------------------------------')
     print()
     msg = '''This program calculates the distance of two locations anywhere around the globe in Miles using the Haversine formula. Sorry all you Flat-Earthers out there!'''
